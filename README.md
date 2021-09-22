@@ -18,7 +18,8 @@ In einem Programm wie diesem, ist es wichtig, dass man mehrere Versuche hat, um 
 
 Hier ist ein Beispiel,für meine While Loop mit Try catch und If/ Statements
 Die While Schleife wiederholt den ganzen Code Block, der Try-Catch Block fängt anfällige Fehler ab und das If Statement vergleicht ob die Eingabe grösser oder kleiner als die zufällige Zahl ist.
-![loop userinput](https://prnt.sc/1t7l6vr)
+![image](https://user-images.githubusercontent.com/56117612/134316793-e29d5a4c-58b9-4b58-ad1d-7c0f46a9b651.png)
+
 
 ## Inhalt 3
 
