@@ -31,6 +31,7 @@ Hier zeige ich die Loop und Try-catch Funktionen meines Programmes
 **Reflektion**:
 Ich hatte Mühe das Video einzubinden, da ich nicht wusste wie ich einen Link in Markdown anklickbar mache.
 Für das nächste Mal, weiss ich wie man einen Link in Markdown anklickbar macht.
+Ich habe soweit gut gearbeitet, jedoch hätte ich fokussierter arbeiten können und mich nicht so schnell ablenken lassen.
 
 **Verifikation**:
 Ziel 1: Ich habe einem Freund meine Erklärung gezeigt und er konnte sie nachvollziehen
