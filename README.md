@@ -21,10 +21,20 @@ Die While Schleife wiederholt den ganzen Code Block, der Try-Catch Block fängt 
 ![image](https://user-images.githubusercontent.com/56117612/134316793-e29d5a4c-58b9-4b58-ad1d-7c0f46a9b651.png)
 
 
+```csharp
+while ( true ) {
+  if (true ) {
+      // blah
+  }
+
+}
+
+```
+
 ## Inhalt 3
 
 Hier zeige ich die Loop und Try-catch Funktionen meines Programmes
-[Youtube Video](https://www.youtube.com/watch?v=Zk6Aj0GUQiY)
+[![image](https://user-images.githubusercontent.com/56117612/134316793-e29d5a4c-58b9-4b58-ad1d-7c0f46a9b651.png)](https://www.youtube.com/watch?v=Zk6Aj0GUQiY)
 
 ## Verifikation + Reflektion 
 
